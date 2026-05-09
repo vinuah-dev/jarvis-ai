@@ -107,11 +107,15 @@ Held at Nagpur Institute of Technology (NIT Nagpur)
 <div align="center">
 
 <a href="demo/Jarvis Showdown.mp4">
-  <img src="https://img.shields.io/badge/▶%20WATCH%20DEMO-00c6ff?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/▶%20WATCH%20FULL%20DEMO-7f00ff?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
+AI-powered virtual assistant demonstration showcasing:
+voice interaction, automation workflows, and intelligent task execution.
+
+</div>
 
 ---
 
