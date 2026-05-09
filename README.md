@@ -34,17 +34,12 @@ Unlike basic assistant systems, JARVIS AI focuses on:
 
 <div align="center">
 
-🎙️ Real-time voice interaction
-
-⚡ Desktop automation
-
-🧠 Intelligent command execution
-
-🔍 Smart task handling
-
-🌐 Web integration
-
-🤖 AI-based assistant workflows
+- 🎙️ Real-time voice interaction
+- ⚡ Desktop automation
+- 🧠 Intelligent command execution
+- 🔍 Smart task handling
+- 🌐 Web integration
+- 🤖 AI-based assistant workflows
 
 </div>
 
@@ -236,29 +231,136 @@ Desktop  Responses  Actions
 
 &nbsp;&nbsp;&nbsp;
 
-# 📂 Project Structure
+# 📁 Project Structure
+
+---
+
+## ⚙️ Backend Architecture
 
 ```text
-jarvis-ai/
+Automation
+├── AppRegistry.py
+├── ScreenRecorder.py
+├── SpotifyController.py
+├── SystemControl.py
+├── WebAutomator.py
+└── WhatsAppEngine.py
+
+Brain
+├── Chatbot.py
+├── ContinuousLearner.py
+├── Memory.py
+├── EQ.py
+├── PersonalDataExtractor.py
+└── ProactiveCheckIn.py
+
+Core
+├── BackgroundTaskManager.py
+├── ContextManager.py
+├── ErrorHandler.py
+├── ModeManager.py
+├── Router.py
+└── SelfEditor.py
+```
+
+---
+
+## 🌐 External Integrations
+
+```text
+External/
 │
-├── achievements/
-├── demo/
-├── docs/
-├── screenshots/
-└── README.md
+├── RealtimeSearchEngine.py
+├── WeatherEngine.py
+├── WolframSolver.py
+├── NewsEngine.py
+├── ImageGenerator.py
+└── PhishingDetector.py
+```
+
+---
+
+## 🎮 Modes
+
+```text
+Modes/
+│
+├── GamingMode.py
+├── NeuralMode.py
+├── SecurityMode.py
+├── ScanningMode.py
+└── OfflineMode.py
+```
+
+---
+
+## 🎤 Voice System
+
+```text
+Voice/
+│
+├── SpeechToText.py
+├── TextToSpeech.py
+├── PronunciationFixer.py
+└── LoadingPhrases.py
+```
+
+---
+
+## 🖥️ Frontend UI System
+
+```text
+Graphics
+├── BootAnimation.py
+├── ChatPanel.py
+├── GlobeWidget.py
+├── RadarWidget.py
+├── ParticleBackground.py
+└── WaveformWidget.py
+
+Assets
+├── Sounds/
+└── Themes/
+```
+---
+
+## 🧠 Data & Memory
+
+```text
+Data/
+├── Cache/
+├── Images/
+├── Recordings/
+├── Screenshots/
+└── chatlog.json
+
+Memories/
+├── emotions.json
+├── long_term.json
+├── personality.json
+└── companion_vault.json
+```
+
+---
+
+## 📦 Root Files
+
+```text
+Main.py
+GUI.py
+setup.py
+requirements.txt
+run_jarvis.bat
+README.md
 ```
 
 ---
 
 &nbsp;&nbsp;&nbsp;
 
-# 📄 Documentation
+## 📄 Documentation
 
-Detailed workflow, architecture, implementation details, and project explanation are available inside:
-
-```text
-/docs
-```
+Detailed workflow, architecture, implementation details, and project explanation are available inside the `/docs` directory.
 
 ---
 
@@ -273,6 +375,8 @@ Detailed workflow, architecture, implementation details, and project explanation
 - Accessibility Systems
 - AI Interaction Research
 - Smart Personal Assistants
+- Phishing Link Detection
+- Cybersecurity Assistance
 
 ---
 
