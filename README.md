@@ -89,19 +89,6 @@ Held at Nagpur Institute of Technology (NIT Nagpur)
 
 ---
 
-&nbsp;&nbsp;&nbsp;
-
-# 🎥 Demonstration
-
-<div align="center">
-
-<video src="demo/Jarvis Showdown.mp4" controls width="90%"></video>
-
-</div>
-
-> Full demonstration available inside `/demo`
-
----
 
 &nbsp;&nbsp;&nbsp;
 
@@ -110,7 +97,9 @@ Held at Nagpur Institute of Technology (NIT Nagpur)
 
 <div align="center">
 
-<video src="demo/Jarvis Showdown.mp4" controls width="90%"></video>
+<a href="demo/Jarvis Showdown.mp4">
+  <img src="https://img.shields.io/badge/▶%20WATCH%20DEMO-00c6ff?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
 </div>
 
@@ -122,11 +111,7 @@ Held at Nagpur Institute of Technology (NIT Nagpur)
 
 <div align="center">
 
-📘 Complete project documentation and architecture available in:
-
-```text
-/docs
-```
+📘 Complete project documentation and architecture available inside <code>/docs</code>
 
 </div>
 
