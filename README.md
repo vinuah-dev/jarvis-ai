@@ -8,27 +8,21 @@
 
 Award-winning AI-powered virtual assistant built for voice interaction, automation, and intelligent task execution.
 
-<br/>
-
-<a href="https://github.com/vinuah-dev">
-  <img src="https://img.shields.io/badge/GitHub-vinuah--dev-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<div align="center">
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/vineet-shah-70263721a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Vineet%20Shah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+## 🏆 Competition Recognition
 
-<br/><br/>
-
-<a href="https://www.instagram.com/vinuah999">
-  <img src="https://img.shields.io/badge/Instagram-@vinuah999-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+🥇 Winner — ANVESHAN Innovation Competition  
+🌍 Top 10 — EFOS National-Level Hackathon
 
 </div>
 
+
 ---
+
+&nbsp;&nbsp;&nbsp;
 
 # 🚀 Overview
 
@@ -48,6 +42,8 @@ Unlike basic assistant systems, JARVIS AI focuses on:
 The system was showcased at multiple innovation competitions and received recognition for its practical implementation and intelligent automation capabilities.
 
 ---
+
+&nbsp;&nbsp;&nbsp;
 
 # 🏆 Achievements & Recognition
 
@@ -78,6 +74,8 @@ Held at Nagpur Institute of Technology (NIT Nagpur)
 
 <br/><br/>
 
+&nbsp;&nbsp;&nbsp;
+
 ## 🌍 National-Level Hackathon Recognition
 
 🏅 Top 10 Position — EFOS SkillUp India Hackathon 2026  
@@ -91,6 +89,8 @@ Held at Nagpur Institute of Technology (NIT Nagpur)
 
 ---
 
+&nbsp;&nbsp;&nbsp;
+
 # 🎥 Demonstration
 
 <div align="center">
@@ -102,6 +102,8 @@ Held at Nagpur Institute of Technology (NIT Nagpur)
 > Full demonstration available inside `/demo`
 
 ---
+
+&nbsp;&nbsp;&nbsp;
 
 # 🧠 Core Features
 
@@ -159,6 +161,8 @@ Held at Nagpur Institute of Technology (NIT Nagpur)
 
 ---
 
+&nbsp;&nbsp;&nbsp;
+
 # 🛠️ Tech Stack
 
 <div align="center">
@@ -178,6 +182,8 @@ Held at Nagpur Institute of Technology (NIT Nagpur)
 </div>
 
 ---
+
+&nbsp;&nbsp;&nbsp;
 
 # 🧩 System Architecture
 
@@ -200,6 +206,8 @@ Desktop  Responses  Actions
 
 ---
 
+&nbsp;&nbsp;&nbsp;
+
 # 📂 Project Structure
 
 ```text
@@ -214,6 +222,8 @@ jarvis-ai/
 
 ---
 
+&nbsp;&nbsp;&nbsp;
+
 # 📄 Documentation
 
 Detailed workflow, architecture, implementation details, and project explanation are available inside:
@@ -223,6 +233,8 @@ Detailed workflow, architecture, implementation details, and project explanation
 ```
 
 ---
+
+&nbsp;&nbsp;&nbsp;
 
 # 🌍 Real-World Applications
 
@@ -236,11 +248,15 @@ Detailed workflow, architecture, implementation details, and project explanation
 
 ---
 
+&nbsp;&nbsp;&nbsp;
+
 # 🔒 Source Code Status
 
 > Source code is currently private while the project is under active development and further improvements are being implemented.
 
 ---
+
+&nbsp;&nbsp;&nbsp;
 
 # 📌 Future Improvements
 
@@ -255,6 +271,8 @@ Detailed workflow, architecture, implementation details, and project explanation
 
 ---
 
+&nbsp;&nbsp;&nbsp;
+
 # 👨‍💻 Author
 
 <div align="center">
@@ -263,31 +281,29 @@ Detailed workflow, architecture, implementation details, and project explanation
 
 AI • Automation • Computer Vision • Full Stack Development
 
+&nbsp;&nbsp;&nbsp;
+
+## ⭐ If you like this project, consider starring the repository
+
+</div>
+
 <br/>
 
 <a href="https://github.com/vinuah-dev">
   <img src="https://img.shields.io/badge/GitHub-vinuah--dev-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
+<br/>
 
 <a href="https://www.linkedin.com/in/vineet-shah-70263721a/">
   <img src="https://img.shields.io/badge/LinkedIn-Vineet%20Shah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://www.instagram.com/vinuah999">
   <img src="https://img.shields.io/badge/Instagram-@vinuah999-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-## ⭐ If you like this project, consider starring the repository
 
 </div>
 
