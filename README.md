@@ -179,20 +179,6 @@ Held at Nagpur Institute of Technology (NIT Nagpur)
 
 ---
 
-# 📸 System Preview
-
-<div align="center">
-
-<img src="screenshots/jarvis-main.png" width="85%" />
-
-<br/><br/>
-
-<img src="screenshots/jarvis-voice.png" width="85%" />
-
-</div>
-
----
-
 # 🧩 System Architecture
 
 ```text
