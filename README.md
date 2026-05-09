@@ -32,12 +32,21 @@ The project combines speech recognition, automation workflows, and intelligent c
 
 Unlike basic assistant systems, JARVIS AI focuses on:
 
-- 🎙️ Real-time voice interaction
-- ⚡ Desktop automation
-- 🧠 Intelligent command execution
-- 🔍 Smart task handling
-- 🌐 Web integration
-- 🤖 AI-based assistant workflows
+<div align="center">
+
+🎙️ Real-time voice interaction
+
+⚡ Desktop automation
+
+🧠 Intelligent command execution
+
+🔍 Smart task handling
+
+🌐 Web integration
+
+🤖 AI-based assistant workflows
+
+</div>
 
 The system was showcased at multiple innovation competitions and received recognition for its practical implementation and intelligent automation capabilities.
 
@@ -103,7 +112,6 @@ Held at Nagpur Institute of Technology (NIT Nagpur)
 
 </div>
 
-> Full working demonstration available inside `/demo`
 
 ---
 
