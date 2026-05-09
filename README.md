@@ -306,7 +306,6 @@ AI • Automation • Computer Vision • Full Stack Development
 </div>
 
 ---
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00c6ff,50:7f00ff,100:ff0080&height=120&section=footer" width="100%" />
 </p>
